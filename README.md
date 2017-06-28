@@ -1,5 +1,5 @@
 # Resplendent-Jordan
-Using this to learn the basics of GitHub
+Created this to learn the basics of GitHub
 
 Hello everyone!
 
